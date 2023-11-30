@@ -1,0 +1,20 @@
+{
+    "projectName": "test-release",
+    "description": "Lorem ipsum dolor sit amet",
+    "type": "community",
+    "author": "rizarsyi",
+    "version": "0.0.1",
+    "authorWebsite": "https://github.com/rizarsyi/bookish-winner",
+    "githubUri": "https://github.com/rizarsyi/bookish-winner",
+    "license": "apache-2.0",
+    "lastUpdated": "1701336114811",
+    "tags": [
+        "testing",
+        "authentication"
+    ],
+    "noDirectLaunch": [],
+    "configs": {
+        "co.charlie.password": {}
+    },
+    "name": "test-release"
+}
